@@ -1,0 +1,15 @@
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\bin\Debug\net6.0\Challenge1.exe
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\bin\Debug\net6.0\Challenge1.deps.json
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\bin\Debug\net6.0\Challenge1.runtimeconfig.json
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\bin\Debug\net6.0\Challenge1.dll
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\bin\Debug\net6.0\Challenge1.pdb
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\obj\Debug\net6.0\Challenge1.csproj.AssemblyReference.cache
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\obj\Debug\net6.0\Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\obj\Debug\net6.0\Challenge1.AssemblyInfoInputs.cache
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\obj\Debug\net6.0\Challenge1.AssemblyInfo.cs
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\obj\Debug\net6.0\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\obj\Debug\net6.0\Challenge1.dll
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\obj\Debug\net6.0\refint\Challenge1.dll
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\obj\Debug\net6.0\Challenge1.pdb
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\obj\Debug\net6.0\Challenge1.genruntimeconfig.cache
+C:\Users\levin\source\repos\HackTheFuture2022_2\Challenge1\obj\Debug\net6.0\ref\Challenge1.dll
